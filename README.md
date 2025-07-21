@@ -1,4 +1,4 @@
-# FAQ SQL - Questions et Concepts Clés sur l'accessibilité numérique
+# FAQ - Questions et Concepts Clés sur l'accessibilité numérique
 
 Ce *repository* regroupe une série de questions autour des concepts fondamentaux de l'accessibilité numérique (a11y).
 
