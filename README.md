@@ -6,8 +6,8 @@ Ce *repository* regroupe une série de questions autour des concepts fondamentau
 
 ## 📁 Structure du *repository*
 
-- `général.md` : Questions généralistes sur l’accessibilité numérique.
-- `dev.md` : Questions techniques pour les développeurs et développeuses.
+- `questions_general.md` : Questions généralistes sur l’accessibilité numérique.
+- `questions_dev.md` : Questions techniques pour les développeurs et développeuses.
 - `outils.md` : Liste de ressources pour tester, simuler et s’informer sur l’accessibilité.
 
 -----
