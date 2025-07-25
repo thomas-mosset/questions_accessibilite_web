@@ -7,7 +7,7 @@ L'accessibilité numérique est la pratique consistant à rendre des sites et ap
 On retrouve dans le numérique le terme « a11y », qui provient du terme anglais « accessibility » qui contient 11 lettres entre sa première et dernière lettre, et qui visuellement ressemble au terme « ally » (donc « allié·e » en français).
 
 - **Pourquoi l’accessibilité web est-elle importante ?**
- 
+
 Elle est importante car elle rend possible l’accès aux contenus et aux fonctionnalités d’un site ou d’une application aux personnes en situation de handicap. Cela évite les discriminations et les inégalités.
 
 - **Quelles sont les principales catégories de handicaps concernées par l’accessibilité numérique ?**
